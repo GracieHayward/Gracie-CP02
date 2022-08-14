@@ -1,0 +1,24 @@
+{
+  "name": "gracie-cp02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GracieHayward/Gracie-CP02.git"
+  },
+  "author": "Gracie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GracieHayward/Gracie-CP02/issues"
+  },
+  "homepage": "https://github.com/GracieHayward/Gracie-CP02#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
